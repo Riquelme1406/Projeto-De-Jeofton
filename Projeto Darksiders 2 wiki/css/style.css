@@ -1,0 +1,8 @@
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+h1 {
+    text-align: center;
+}
